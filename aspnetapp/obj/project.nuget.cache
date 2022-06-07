@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IS32bORJkTFMx8epp9OrCKNErA5iRZlXGSgd8GRfHGZdyOHUIQ1v3bbWQP0VkWvduXwfPsSQg1L5NuxzS4l7mg==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\Senac-Kubernetes-Demo\\aspnetapp\\aspnetapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucon\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
