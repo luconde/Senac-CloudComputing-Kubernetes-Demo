@@ -5,6 +5,10 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+	  <Authors>Luciano Condé</Authors>
+	  <Copyright>© 2022 - Luciano Condé</Copyright>
+	  <Version>1.0.21</Version>
+	  <Product>Demo de Kubernetes com ASPNET MVC Core</Product>
   </PropertyGroup>
 
   <ItemGroup>
